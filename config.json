@@ -1,0 +1,22 @@
+{
+  "badge_category": "promociones",
+  "categories": {
+    "acompanantes": "🥖 Acompañantes",
+    "bebidas": "🥤 Bebidas",
+    "combos": "🎉 Combos",
+    "lasanas": "🍝 Lasañas",
+    "pizzas": "🍕 Pizzas",
+    "postres": "🍮 Postres",
+    "promociones": "🔥 Promos"
+  },
+  "currency": "$",
+  "hero_title": "Masa casera, \u003cspan class=\"hl\"\u003esabor de siempre\u003c/span\u003e",
+  "location_intro": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",
+  "logo": "logo.png",
+  "site_title": "BocacTel Pizza – Masa casera y sabor de siempre",
+  "store_name": "BocacTel Pizza",
+  "theme_accent": "#D92D27",
+  "theme_primary": "#14733B",
+  "whatsapp_message": "¡Hola BocacTel! 🍕 Quiero hacer este pedido:",
+  "whatsapp_number": "593982033775"
+}
