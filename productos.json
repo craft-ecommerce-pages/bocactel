@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id":"pizza-sencilla","slug":"pizza-sencilla","nombre":"Pizza Sencilla","precio":"3.25","precio_promo":"","categorias":["pizzas"],"descripcion":"Masa casera, queso mozzarella, chorizo ahumado y jamón.","stock":null,"imagenes":["/producto/pizza-sencilla/images/pizza-sencilla-1.webp"],
+    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.25)","price":3.25},{"label":"Personal ($5.25)","price":5.25},{"label":"BocacTel ($6.50)","price":6.5},{"label":"Mediana ($11.50)","price":11.5},{"label":"Familiar ($14.50)","price":14.5}]}],"sku":""
+  },
+  {
+    "id":"pizza-hawayana","slug":"pizza-hawayana","nombre":"Pizza Hawayana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera.","stock":null,"imagenes":["/producto/pizza-hawayana/images/pizza-hawayana-1.webp"],
+    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+  },
+  {
+    "id":"pizza-americana","slug":"pizza-americana","nombre":"Pizza Americana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla.","stock":null,"imagenes":["/producto/pizza-americana/images/pizza-americana-1.webp"],
+    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+  },
+  {
+    "id":"pizza-vegetariana","slug":"pizza-vegetariana","nombre":"Pizza Vegetariana","precio":"3.25","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, champiñón, tomate, pimiento y cebolla. Fresca y llena de color.","stock":null,"imagenes":["/producto/pizza-vegetariana/images/pizza-vegetariana-1.webp"],
+    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.25)","price":3.25},{"label":"Personal ($5.25)","price":5.25},{"label":"BocacTel ($6.50)","price":6.5},{"label":"Mediana ($11.50)","price":11.5},{"label":"Familiar ($14.50)","price":14.5}]}],"sku":""
+  },
+  {
+    "id":"pizza-alemana","slug":"pizza-alemana","nombre":"Pizza Alemana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, chorizo, jamón, salami, pimiento y cebolla.","stock":null,"imagenes":["/producto/pizza-alemana/images/pizza-alemana-1.webp"],
+    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+  },
+  {"id":"promo-martes-familiar","slug":"promo-martes-familiar","nombre":"Martes Familiar","tipo":"promocion","precio":"21.75","precio_promo":"","categorias":["promociones"],"descripcion":"2 pizzas familiares sencillas, 6 panes de ajo y bebida. Promoción válida los martes.","stock":null,"imagenes":["/producto/promo-martes-familiar/images/promo-martes-familiar-1.webp"],"variantes":[],"sku":""},
+  {"id":"promo-martes-mediana","slug":"promo-martes-mediana","nombre":"Martes Medianas","tipo":"promocion","precio":"17.25","precio_promo":"","categorias":["promociones"],"descripcion":"2 pizzas medianas sencillas, 6 panes de ajo y bebida. Promoción válida los martes.","stock":null,"imagenes":["/producto/promo-martes-mediana/images/promo-martes-mediana-1.webp"],"variantes":[],"sku":""},
+  {"id":"lasana","slug":"lasana","nombre":"Lasaña Casera","precio":"4.00","precio_promo":"","categorias":["lasanas"],"descripcion":"Capas de pasta, salsa de la casa y queso gratinado. Elige carne o pollo.","stock":null,"imagenes":["/producto/lasana/images/lasana-1.webp"],"variantes":[{"name":"Tamaño","type":"price_select","options":[{"label":"Mini ($4.00)","price":4},{"label":"Personal ($6.00)","price":6},{"label":"Familiar ($30.00)","price":30}]},{"name":"Sabor","type":"option","options":["Carne","Pollo"]}],"sku":""},
+  {"id":"combo-1","slug":"combo-1","nombre":"Combo 1","precio":"15.00","precio_promo":"","categorias":["combos"],"descripcion":"Pizza, pan de ajo y bebida. Incluye Coca-Cola.","stock":null,"imagenes":["/producto/combo-1/images/combo-1-1.webp"],"variantes":[],"sku":""},
+  {"id":"combo-2","slug":"combo-2","nombre":"Combo 2","precio":"19.50","precio_promo":"","categorias":["combos"],"descripcion":"Pizza, pan de ajo y bebida. Incluye Coca-Cola.","stock":null,"imagenes":["/producto/combo-2/images/combo-2-1.webp"],"variantes":[],"sku":""},
+  {"id":"pan-de-ajo","slug":"pan-de-ajo","nombre":"Pan de Ajo","precio":"1.50","precio_promo":"","categorias":["acompanantes"],"descripcion":"Dorado, crujiente y preparado con mantequilla de ajo.","stock":null,"imagenes":["/producto/pan-de-ajo/images/pan-de-ajo-1.webp"],"variantes":[],"sku":""},
+  {"id":"flan","slug":"flan","nombre":"Flan","precio":"0.75","precio_promo":"","categorias":["postres"],"descripcion":"Un final suave y dulce para tu pedido.","stock":null,"imagenes":[],"variantes":[],"sku":""},
+  {"id":"arroz","slug":"arroz","nombre":"Arroz","precio":"1.00","precio_promo":"","categorias":["acompanantes"],"descripcion":"Porción de arroz para acompañar.","stock":null,"imagenes":[],"variantes":[],"sku":""},
+  {"id":"te-helado","slug":"te-helado","nombre":"Té Helado","precio":"1.00","precio_promo":"","categorias":["bebidas"],"descripcion":"Refrescante vaso de té helado.","stock":null,"imagenes":[],"variantes":[],"sku":""},
+  {"id":"jarra-de-te","slug":"jarra-de-te","nombre":"Jarra de Té","precio":"5.00","precio_promo":"","categorias":["bebidas"],"descripcion":"Jarra de té helado para compartir.","stock":null,"imagenes":[],"variantes":[],"sku":""}
+]
