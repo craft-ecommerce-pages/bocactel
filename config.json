@@ -1,32 +1,28 @@
 {
   "badge_category": "promociones",
   "categories": {
-    "promociones": "🔥 Promos",
-    "pizzas": "🍕 Sabores de pizza",
     "pizza_sencilla": "🍕 Sencilla",
     "pizza_hawayana": "🍕 Hawayana",
-    "lasanas": "🍝 Lasañas",
     "pizza_americana": "🍕 Americana",
-    "combos": "🎉 Combos",
-    "acompanantes": "🥖 Acompañantes",
-    "pizza_vegetariana": "🍕 Vegetariana",
     "pizza_alemana": "🍕 Alemana",
-    "postres": "🍮 Postres",
-    "bebidas": "🥤 Bebidas"
+    "pizza_vegetariana": "🍕 Vegetariana",
+    "lasanas": "🍝 Lasañas",
+    "combos": "🎉 Combos",
+    "acompanantes": "🥖 Acompañamientos",
+    "bebidas": "🥤 Bebidas",
+    "postres": "🍮 Postres"
   },
   "category_order": [
-    "promociones",
-    "pizzas",
     "pizza_sencilla",
     "pizza_hawayana",
-    "lasanas",
     "pizza_americana",
+    "pizza_alemana",
+    "pizza_vegetariana",
+    "lasanas",
     "combos",
     "acompanantes",
-    "pizza_vegetariana",
-    "pizza_alemana",
-    "postres",
-    "bebidas"
+    "bebidas",
+    "postres"
   ],
   "currency": "$",
   "hero_title": "Masa casera, <span class=\"hl\">sabor de siempre</span>",

@@ -651,16 +651,15 @@
     "nombre": "Martes Medianas",
     "precio": "17.25",
     "precio_promo": "",
-    "categorias": [
-      "promociones"
-    ],
+    "categorias": [],
     "descripcion": "2 pizzas medianas sencillas, 6 panes de ajo y bebida. Promoción válida los martes.",
     "stock": null,
     "imagenes": [
       "/producto/martes-medianas/images/martes-medianas-1.webp"
     ],
     "variantes": [],
-    "sku": ""
+    "sku": "",
+    "tipo": "promocion"
   },
   {
     "id": "75fb79e4-4348-46b8-88ca-9cb968bb26c1",
@@ -668,15 +667,14 @@
     "nombre": "Martes Familiar",
     "precio": "21.75",
     "precio_promo": "",
-    "categorias": [
-      "promociones"
-    ],
+    "categorias": [],
     "descripcion": "2 pizzas familiares sencillas, 6 panes de ajo y bebida. Promoción válida los martes.",
     "stock": null,
     "imagenes": [
       "/producto/martes-familiar/images/martes-familiar-1.webp"
     ],
     "variantes": [],
-    "sku": ""
+    "sku": "",
+    "tipo": "promocion"
   }
 ]
