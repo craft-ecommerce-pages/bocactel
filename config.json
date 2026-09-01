@@ -2,23 +2,43 @@
   "badge_category": "promociones",
   "categories": {
     "promociones": "🔥 Promos",
-    "pizzas": "🍕 Pizzas",
+    "pizzas": "🍕 Sabores de pizza",
+    "pizza_sencilla": "🍕 Sencilla",
+    "pizza_hawayana": "🍕 Hawayana",
     "lasanas": "🍝 Lasañas",
+    "pizza_americana": "🍕 Americana",
     "combos": "🎉 Combos",
     "acompanantes": "🥖 Acompañantes",
+    "pizza_vegetariana": "🍕 Vegetariana",
+    "pizza_alemana": "🍕 Alemana",
     "postres": "🍮 Postres",
     "bebidas": "🥤 Bebidas"
   },
-  "category_order": ["promociones", "pizzas", "lasanas", "combos", "acompanantes", "postres", "bebidas"],
+  "category_order": [
+    "promociones",
+    "pizzas",
+    "pizza_sencilla",
+    "pizza_hawayana",
+    "lasanas",
+    "pizza_americana",
+    "combos",
+    "acompanantes",
+    "pizza_vegetariana",
+    "pizza_alemana",
+    "postres",
+    "bebidas"
+  ],
   "currency": "$",
   "hero_title": "Masa casera, <span class=\"hl\">sabor de siempre</span>",
   "location": {
     "map_embed": "",
-    "sedes": [{
-      "direccion": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",
-      "nombre": "BocacTel Pizza",
-      "telefono": "593982033775"
-    }],
+    "sedes": [
+      {
+        "direccion": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",
+        "nombre": "BocacTel Pizza",
+        "telefono": "593982033775"
+      }
+    ],
     "telefono_principal": "593982033775"
   },
   "location_intro": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",

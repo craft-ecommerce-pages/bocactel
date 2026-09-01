@@ -1,32 +1,682 @@
 [
   {
-    "id":"pizza-sencilla","slug":"pizza-sencilla","nombre":"Pizza Sencilla","precio":"3.25","precio_promo":"","categorias":["pizzas"],"descripcion":"Masa casera, queso mozzarella, chorizo ahumado y jamón.","stock":null,"imagenes":["/producto/pizza-sencilla/images/pizza-sencilla-1.webp"],
-    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.25)","price":3.25},{"label":"Personal ($5.25)","price":5.25},{"label":"BocacTel ($6.50)","price":6.5},{"label":"Mediana ($11.50)","price":11.5},{"label":"Familiar ($14.50)","price":14.5}]}],"sku":""
+    "id": "d9969f4c-4f63-40d0-8c12-f0da43e03a40",
+    "slug": "jarra-de-te",
+    "nombre": "Jarra de té",
+    "precio": "3.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Jarra de té helado con hielo y limón, refrescante y perfecta para compartir.",
+    "stock": null,
+    "imagenes": [
+      "/producto/jarra-de-te/images/jarra-de-te-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
   },
   {
-    "id":"pizza-hawayana","slug":"pizza-hawayana","nombre":"Pizza Hawayana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera.","stock":null,"imagenes":["/producto/pizza-hawayana/images/pizza-hawayana-1.webp"],
-    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+    "id": "a4d59fd8-4aa0-4b71-a190-b903b860fe19",
+    "slug": "te-helado-botella-fuze-tea",
+    "nombre": "Té helado (botella Fuze Tea)",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Botella individual de Fuze Tea bien fría, ideal para refrescar tu pedido.",
+    "stock": null,
+    "imagenes": [
+      "/producto/te-helado-botella-fuze-tea/images/te-helado-botella-fuze-tea-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
   },
   {
-    "id":"pizza-americana","slug":"pizza-americana","nombre":"Pizza Americana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla.","stock":null,"imagenes":["/producto/pizza-americana/images/pizza-americana-1.webp"],
-    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+    "id": "51e431b6-d6ad-48a4-a878-5c7ad7468e1a",
+    "slug": "porcion-de-arroz",
+    "nombre": "Porción de arroz",
+    "precio": "1.00",
+    "precio_promo": "",
+    "categorias": [
+      "acompanantes"
+    ],
+    "descripcion": "Porción individual de arroz blanco, suave y recién preparado para acompañar tu pedido.",
+    "stock": null,
+    "imagenes": [
+      "/producto/porcion-de-arroz/images/porcion-de-arroz-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
   },
   {
-    "id":"pizza-vegetariana","slug":"pizza-vegetariana","nombre":"Pizza Vegetariana","precio":"3.25","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, champiñón, tomate, pimiento y cebolla. Fresca y llena de color.","stock":null,"imagenes":["/producto/pizza-vegetariana/images/pizza-vegetariana-1.webp"],
-    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.25)","price":3.25},{"label":"Personal ($5.25)","price":5.25},{"label":"BocacTel ($6.50)","price":6.5},{"label":"Mediana ($11.50)","price":11.5},{"label":"Familiar ($14.50)","price":14.5}]}],"sku":""
+    "id": "49552d5e-d03a-484f-8d9d-9b93a8ea346f",
+    "slug": "6-panes-de-ajo",
+    "nombre": "6 panes de ajo",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanantes"
+    ],
+    "descripcion": "Seis panes dorados y crujientes, preparados con mantequilla de ajo y hierbas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/6-panes-de-ajo/images/6-panes-de-ajo-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
   },
   {
-    "id":"pizza-alemana","slug":"pizza-alemana","nombre":"Pizza Alemana","precio":"3.50","precio_promo":"","categorias":["pizzas"],"descripcion":"Mozzarella, chorizo, jamón, salami, pimiento y cebolla.","stock":null,"imagenes":["/producto/pizza-alemana/images/pizza-alemana-1.webp"],
-    "variantes":[{"name":"Elige el tamaño","type":"price_select","options":[{"label":"Mini ($3.50)","price":3.5},{"label":"Personal ($5.50)","price":5.5},{"label":"BocacTel ($7.50)","price":7.5},{"label":"Mediana ($13.50)","price":13.5},{"label":"Familiar ($16.50)","price":16.5}]}],"sku":""
+    "id": "9121e619-295a-4a77-960f-0618044d46f3",
+    "slug": "lasana-de-pollo-familiar",
+    "nombre": "Lasaña de pollo familiar",
+    "precio": "30.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de pollo: capas de pasta, salsa cremosa de la casa, pollo sazonado y abundante queso gratinado. Presentación familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-pollo-familiar/images/lasana-de-pollo-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
   },
-  {"id":"promo-martes-familiar","slug":"promo-martes-familiar","nombre":"Martes Familiar","tipo":"promocion","precio":"21.75","precio_promo":"","categorias":["promociones"],"descripcion":"2 pizzas familiares sencillas, 6 panes de ajo y bebida. Promoción válida los martes.","stock":null,"imagenes":["/producto/promo-martes-familiar/images/promo-martes-familiar-1.webp"],"variantes":[],"sku":""},
-  {"id":"promo-martes-mediana","slug":"promo-martes-mediana","nombre":"Martes Medianas","tipo":"promocion","precio":"17.25","precio_promo":"","categorias":["promociones"],"descripcion":"2 pizzas medianas sencillas, 6 panes de ajo y bebida. Promoción válida los martes.","stock":null,"imagenes":["/producto/promo-martes-mediana/images/promo-martes-mediana-1.webp"],"variantes":[],"sku":""},
-  {"id":"lasana","slug":"lasana","nombre":"Lasaña Casera","precio":"4.00","precio_promo":"","categorias":["lasanas"],"descripcion":"Capas de pasta, salsa de la casa y queso gratinado. Elige carne o pollo.","stock":null,"imagenes":["/producto/lasana/images/lasana-1.webp"],"variantes":[{"name":"Tamaño","type":"price_select","options":[{"label":"Mini ($4.00)","price":4},{"label":"Personal ($6.00)","price":6},{"label":"Familiar ($30.00)","price":30}]},{"name":"Sabor","type":"option","options":["Carne","Pollo"]}],"sku":""},
-  {"id":"combo-1","slug":"combo-1","nombre":"Combo 1","precio":"15.00","precio_promo":"","categorias":["combos"],"descripcion":"Pizza, pan de ajo y bebida. Incluye Coca-Cola.","stock":null,"imagenes":["/producto/combo-1/images/combo-1-1.webp"],"variantes":[],"sku":""},
-  {"id":"combo-2","slug":"combo-2","nombre":"Combo 2","precio":"19.50","precio_promo":"","categorias":["combos"],"descripcion":"Pizza, pan de ajo y bebida. Incluye Coca-Cola.","stock":null,"imagenes":["/producto/combo-2/images/combo-2-1.webp"],"variantes":[],"sku":""},
-  {"id":"pan-de-ajo","slug":"pan-de-ajo","nombre":"Pan de Ajo","precio":"1.50","precio_promo":"","categorias":["acompanantes"],"descripcion":"Dorado, crujiente y preparado con mantequilla de ajo.","stock":null,"imagenes":["/producto/pan-de-ajo/images/pan-de-ajo-1.webp"],"variantes":[],"sku":""},
-  {"id":"flan","slug":"flan","nombre":"Flan","precio":"0.75","precio_promo":"","categorias":["postres"],"descripcion":"Un final suave y dulce para tu pedido.","stock":null,"imagenes":[],"variantes":[],"sku":""},
-  {"id":"arroz","slug":"arroz","nombre":"Arroz","precio":"1.00","precio_promo":"","categorias":["acompanantes"],"descripcion":"Porción de arroz para acompañar.","stock":null,"imagenes":[],"variantes":[],"sku":""},
-  {"id":"te-helado","slug":"te-helado","nombre":"Té Helado","precio":"1.00","precio_promo":"","categorias":["bebidas"],"descripcion":"Refrescante vaso de té helado.","stock":null,"imagenes":[],"variantes":[],"sku":""},
-  {"id":"jarra-de-te","slug":"jarra-de-te","nombre":"Jarra de Té","precio":"5.00","precio_promo":"","categorias":["bebidas"],"descripcion":"Jarra de té helado para compartir.","stock":null,"imagenes":[],"variantes":[],"sku":""}
+  {
+    "id": "e86b814d-75c1-4d5c-973e-ca71086e59d4",
+    "slug": "lasana-de-pollo-personal",
+    "nombre": "Lasaña de pollo personal",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de pollo: capas de pasta, salsa cremosa de la casa, pollo sazonado y abundante queso gratinado. Presentación personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-pollo-personal/images/lasana-de-pollo-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "19da5cd4-55a4-4929-a238-075c2e792d05",
+    "slug": "lasana-de-pollo-mini",
+    "nombre": "Lasaña de pollo mini",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de pollo: capas de pasta, salsa cremosa de la casa, pollo sazonado y abundante queso gratinado. Presentación mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-pollo-mini/images/lasana-de-pollo-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e0674d9d-c8a2-411c-a85a-e3ec67ae33cd",
+    "slug": "lasana-de-carne-familiar",
+    "nombre": "Lasaña de carne familiar",
+    "precio": "30.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de carne: capas de pasta, salsa de la casa, carne sazonada y abundante queso gratinado. Presentación familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-carne-familiar/images/lasana-de-carne-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "59526b6c-6e46-4dc2-8b16-b655f84b20a9",
+    "slug": "lasana-de-carne-personal",
+    "nombre": "Lasaña de carne personal",
+    "precio": "6.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de carne: capas de pasta, salsa de la casa, carne sazonada y abundante queso gratinado. Presentación personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-carne-personal/images/lasana-de-carne-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9750a400-20b0-46cf-b3bd-7a37bfb633ba",
+    "slug": "lasana-de-carne-mini",
+    "nombre": "Lasaña de carne mini",
+    "precio": "4.00",
+    "precio_promo": "",
+    "categorias": [
+      "lasanas"
+    ],
+    "descripcion": "Lasaña casera de carne: capas de pasta, salsa de la casa, carne sazonada y abundante queso gratinado. Presentación mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/lasana-de-carne-mini/images/lasana-de-carne-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e656b9d1-22c4-4618-bd52-87e42ebe7704",
+    "slug": "alemana-familiar",
+    "nombre": "Alemana Familiar",
+    "precio": "16.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_alemana"
+    ],
+    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/alemana-familiar/images/alemana-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "bddfbf35-8eb4-40e9-9e07-94a97323501a",
+    "slug": "alemana-mediana",
+    "nombre": "Alemana Mediana",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_alemana"
+    ],
+    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/alemana-mediana/images/alemana-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8d3e00c5-5d0a-4815-858c-ab34b91edd92",
+    "slug": "alemana-bocactel",
+    "nombre": "Alemana BocacTel",
+    "precio": "7.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_alemana"
+    ],
+    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/alemana-bocactel/images/alemana-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "58f7146a-7eab-4954-8d16-7f3c88d63c78",
+    "slug": "alemana-personal",
+    "nombre": "Alemana Personal",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_alemana"
+    ],
+    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/alemana-personal/images/alemana-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6c63c4f0-eb1c-4f00-9d8b-51e7d235b958",
+    "slug": "alemana-mini",
+    "nombre": "Alemana Mini",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_alemana"
+    ],
+    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/alemana-mini/images/alemana-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b949f6ca-f1e3-49b9-b2ee-2edfaa73f8b3",
+    "slug": "vegetariana-familiar",
+    "nombre": "Vegetariana Familiar",
+    "precio": "14.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_vegetariana"
+    ],
+    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/vegetariana-familiar/images/vegetariana-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c5228665-a401-499b-9790-55e749775011",
+    "slug": "vegetariana-mediana",
+    "nombre": "Vegetariana Mediana",
+    "precio": "11.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_vegetariana"
+    ],
+    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/vegetariana-mediana/images/vegetariana-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8e2e209b-b469-4f6a-97a9-ef7f4f2b18a3",
+    "slug": "vegetariana-bocactel",
+    "nombre": "Vegetariana BocacTel",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_vegetariana"
+    ],
+    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/vegetariana-bocactel/images/vegetariana-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f28e630f-29e0-4d6a-9952-da2c74d4ea28",
+    "slug": "vegetariana-personal",
+    "nombre": "Vegetariana Personal",
+    "precio": "5.25",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_vegetariana"
+    ],
+    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/vegetariana-personal/images/vegetariana-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "130adcda-dda0-4adf-970a-007342ea7f3a",
+    "slug": "vegetariana-mini",
+    "nombre": "Vegetariana Mini",
+    "precio": "3.25",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_vegetariana"
+    ],
+    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/vegetariana-mini/images/vegetariana-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "efbc7540-65f5-4d35-a06f-d6b19f6d83f3",
+    "slug": "americana-familiar",
+    "nombre": "Americana Familiar",
+    "precio": "16.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_americana"
+    ],
+    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/americana-familiar/images/americana-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9cb8fa70-ccb0-4e22-83bb-bbc3d86ebf10",
+    "slug": "americana-mediana",
+    "nombre": "Americana Mediana",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_americana"
+    ],
+    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/americana-mediana/images/americana-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e399918d-e6db-4cf4-895b-453110b535f2",
+    "slug": "americana-bocactel",
+    "nombre": "Americana BocacTel",
+    "precio": "7.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_americana"
+    ],
+    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/americana-bocactel/images/americana-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d89dae27-3aa9-4a79-9f5b-f54023591510",
+    "slug": "americana-personal",
+    "nombre": "Americana Personal",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_americana"
+    ],
+    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/americana-personal/images/americana-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f4cef269-db83-411d-bde5-4bdaa6754f6e",
+    "slug": "americana-mini",
+    "nombre": "Americana Mini",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_americana"
+    ],
+    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/americana-mini/images/americana-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9b228d46-8240-465a-aef3-fd206456d576",
+    "slug": "hawayana-familiar",
+    "nombre": "Hawayana Familiar",
+    "precio": "16.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_hawayana"
+    ],
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hawayana-familiar/images/hawayana-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "82eba733-3395-49bf-aad1-65b1c8f35c02",
+    "slug": "hawayana-mediana",
+    "nombre": "Hawayana Mediana",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_hawayana"
+    ],
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hawayana-mediana/images/hawayana-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8b272c40-d261-43e3-85b3-ee2bf51dfe44",
+    "slug": "hawayana-bocactel",
+    "nombre": "Hawayana BocacTel",
+    "precio": "7.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_hawayana"
+    ],
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hawayana-bocactel/images/hawayana-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "481df6b0-5bb5-461d-9554-6f5c029a5ab6",
+    "slug": "hawayana-personal",
+    "nombre": "Hawayana Personal",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_hawayana"
+    ],
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hawayana-personal/images/hawayana-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "abf3df14-a274-49c3-989a-d22225242f23",
+    "slug": "hawayana-mini",
+    "nombre": "Hawayana Mini",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_hawayana"
+    ],
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/hawayana-mini/images/hawayana-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5cfe394e-d858-45de-b9d6-2ec149fe948b",
+    "slug": "sencilla-familiar",
+    "nombre": "Sencilla Familiar",
+    "precio": "14.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_sencilla"
+    ],
+    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/sencilla-familiar/images/sencilla-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ca5edd08-e08b-4394-b753-d958ce858b27",
+    "slug": "sencilla-mediana",
+    "nombre": "Sencilla Mediana",
+    "precio": "11.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_sencilla"
+    ],
+    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/sencilla-mediana/images/sencilla-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8f82f32a-575e-48fc-a72a-5a9f960e141c",
+    "slug": "sencilla-bocactel",
+    "nombre": "Sencilla BocacTel",
+    "precio": "6.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_sencilla"
+    ],
+    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/sencilla-bocactel/images/sencilla-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5c4a737c-60bc-485e-bc96-17b0ff32758d",
+    "slug": "sencilla-personal",
+    "nombre": "Sencilla Personal",
+    "precio": "5.25",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_sencilla"
+    ],
+    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/sencilla-personal/images/sencilla-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5ed91417-cfb8-427a-af3b-a8adb2a97d76",
+    "slug": "sencilla-mini",
+    "nombre": "Sencilla Mini",
+    "precio": "3.25",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_sencilla"
+    ],
+    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/sencilla-mini/images/sencilla-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3fbb7cb6-161b-4f8f-ad6e-8d7d1d17f116",
+    "slug": "flan",
+    "nombre": "Flan",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "postres"
+    ],
+    "descripcion": "Flan casero suave y cremoso, cubierto con caramelo dorado.",
+    "stock": null,
+    "imagenes": [
+      "/producto/flan/images/flan-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6185fd53-3720-47f5-8857-0aa6cd651544",
+    "slug": "combo-2",
+    "nombre": "Combo 2",
+    "precio": "19.50",
+    "precio_promo": "",
+    "categorias": [
+      "combos"
+    ],
+    "descripcion": "El combo familiar: 1 pizza familiar, 8 panes de ajo, 1 gaseosa grande, 2 flanes y 3 fresas con crema.",
+    "stock": null,
+    "imagenes": [
+      "/producto/combo-2/images/combo-2-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b73f763e-7afc-4318-ac1b-7190741072a7",
+    "slug": "combo-1",
+    "nombre": "Combo 1",
+    "precio": "15.00",
+    "precio_promo": "",
+    "categorias": [
+      "combos"
+    ],
+    "descripcion": "Un combo completo para compartir: 1 pizza mediana, 1 gaseosa, 6 panes de ajo, 1 flan y 2 fresas con crema.",
+    "stock": null,
+    "imagenes": [
+      "/producto/combo-1/images/combo-1-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "cd4078b9-8a58-4918-b455-796c856115f8",
+    "slug": "martes-medianas",
+    "nombre": "Martes Medianas",
+    "precio": "17.25",
+    "precio_promo": "",
+    "categorias": [
+      "promociones"
+    ],
+    "descripcion": "2 pizzas medianas sencillas, 6 panes de ajo y bebida. Promoción válida los martes.",
+    "stock": null,
+    "imagenes": [
+      "/producto/martes-medianas/images/martes-medianas-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "75fb79e4-4348-46b8-88ca-9cb968bb26c1",
+    "slug": "martes-familiar",
+    "nombre": "Martes Familiar",
+    "precio": "21.75",
+    "precio_promo": "",
+    "categorias": [
+      "promociones"
+    ],
+    "descripcion": "2 pizzas familiares sencillas, 6 panes de ajo y bebida. Promoción válida los martes.",
+    "stock": null,
+    "imagenes": [
+      "/producto/martes-familiar/images/martes-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  }
 ]
