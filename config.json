@@ -25,19 +25,19 @@
     "postres"
   ],
   "currency": "$",
-  "hero_title": "Masa casera, <span class=\"hl\">sabor de siempre</span>",
+  "hero_title": "Con la Calidad del éxito a la excelencia",
   "location": {
-    "map_embed": "",
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.053087079429!2d-79.90684892427153!3d-2.1333005371400553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x902d6d68445345ed%3A0x43fdcf6819113e7b!2sBocactel%20Pizza!5e0!3m2!1ses-419!2sec!4v1788359632004!5m2!1ses-419!2sec",
     "sedes": [
       {
-        "direccion": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",
+        "direccion": "SAUCES 8 DIAGONAL AL BANCO BOLIVARIANO, FRENTE A PLANTILANDIA",
         "nombre": "BocacTel Pizza",
         "telefono": "593982033775"
       }
     ],
     "telefono_principal": "593982033775"
   },
-  "location_intro": "Sucre 8-40, Roldós, Baquerizo Nazur · Diagonal al Banco Bolivariano, frente a Planholanda",
+  "location_intro": "SAUCES 8 DIAGONAL AL BANCO BOLIVARIANO, FRENTE A PLANTILANDIA",
   "logo": "media/logo.webp",
   "site_title": "BocacTel Pizza – Masa casera y sabor de siempre",
   "store_name": "BocacTel Pizza",
