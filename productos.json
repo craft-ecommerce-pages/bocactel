@@ -1,5 +1,90 @@
 [
   {
+    "id": "b1b0e721-cd1e-466e-94dd-2ab998fae117",
+    "slug": "pollo-familiar",
+    "nombre": "Pollo Familiar",
+    "precio": "16.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_pollo"
+    ],
+    "descripcion": "Queso mozzarella, pollo sazonado y pimientos rojos y verdes. Tamaño Familiar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pollo-familiar/images/pollo-familiar-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e567945a-0119-4b7e-a042-3ffbb3cc3601",
+    "slug": "pollo-mediana",
+    "nombre": "Pollo Mediana",
+    "precio": "13.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_pollo"
+    ],
+    "descripcion": "Queso mozzarella, pollo sazonado y pimientos rojos y verdes. Tamaño Mediana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pollo-mediana/images/pollo-mediana-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8e10127c-d191-468d-aa3d-b14513891517",
+    "slug": "pollo-bocactel",
+    "nombre": "Pollo BocacTel",
+    "precio": "7.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_pollo"
+    ],
+    "descripcion": "Queso mozzarella, pollo sazonado y pimientos rojos y verdes. Tamaño BocacTel.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pollo-bocactel/images/pollo-bocactel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f6274547-5aad-4b1a-8167-879c6a956a2a",
+    "slug": "pollo-personal",
+    "nombre": "Pollo Personal",
+    "precio": "5.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_pollo"
+    ],
+    "descripcion": "Queso mozzarella, pollo sazonado y pimientos rojos y verdes. Tamaño Personal.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pollo-personal/images/pollo-personal-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6dffe4a7-2b66-46f0-aaf6-e37435479c0b",
+    "slug": "pollo-mini",
+    "nombre": "Pollo Mini",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "pizza_pollo"
+    ],
+    "descripcion": "Queso mozzarella, pollo sazonado y pimientos rojos y verdes. Tamaño Mini.",
+    "stock": null,
+    "imagenes": [
+      "/producto/pollo-mini/images/pollo-mini-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "d9969f4c-4f63-40d0-8c12-f0da43e03a40",
     "slug": "jarra-de-te",
     "nombre": "Jarra de té",
@@ -18,17 +103,17 @@
   },
   {
     "id": "a4d59fd8-4aa0-4b71-a190-b903b860fe19",
-    "slug": "te-helado-botella-fuze-tea",
-    "nombre": "Té helado (botella Fuze Tea)",
+    "slug": "te-helado",
+    "nombre": "Té helado",
     "precio": "1.00",
     "precio_promo": "",
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Botella individual de Fuze Tea bien fría, ideal para refrescar tu pedido.",
+    "descripcion": "Vaso de té helado con hielo, fresco y listo para acompañar tu pedido.",
     "stock": null,
     "imagenes": [
-      "/producto/te-helado-botella-fuze-tea/images/te-helado-botella-fuze-tea-1.webp"
+      "/producto/te-helado/images/te-helado-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -178,7 +263,7 @@
     "categorias": [
       "pizza_alemana"
     ],
-    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Familiar.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Familiar.",
     "stock": null,
     "imagenes": [
       "/producto/alemana-familiar/images/alemana-familiar-1.webp"
@@ -195,7 +280,7 @@
     "categorias": [
       "pizza_alemana"
     ],
-    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Mediana.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Mediana.",
     "stock": null,
     "imagenes": [
       "/producto/alemana-mediana/images/alemana-mediana-1.webp"
@@ -212,7 +297,7 @@
     "categorias": [
       "pizza_alemana"
     ],
-    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño BocacTel.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño BocacTel.",
     "stock": null,
     "imagenes": [
       "/producto/alemana-bocactel/images/alemana-bocactel-1.webp"
@@ -229,7 +314,7 @@
     "categorias": [
       "pizza_alemana"
     ],
-    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Personal.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Personal.",
     "stock": null,
     "imagenes": [
       "/producto/alemana-personal/images/alemana-personal-1.webp"
@@ -246,7 +331,7 @@
     "categorias": [
       "pizza_alemana"
     ],
-    "descripcion": "Mozzarella, chorizo, jamón, salami, pimiento y cebolla. Tamaño Mini.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Mini.",
     "stock": null,
     "imagenes": [
       "/producto/alemana-mini/images/alemana-mini-1.webp"
@@ -263,7 +348,7 @@
     "categorias": [
       "pizza_vegetariana"
     ],
-    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Familiar.",
+    "descripcion": "Queso mozzarella, champiñones, tomate, pimiento y cebolla. Tamaño Familiar.",
     "stock": null,
     "imagenes": [
       "/producto/vegetariana-familiar/images/vegetariana-familiar-1.webp"
@@ -280,7 +365,7 @@
     "categorias": [
       "pizza_vegetariana"
     ],
-    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Mediana.",
+    "descripcion": "Queso mozzarella, champiñones, tomate, pimiento y cebolla. Tamaño Mediana.",
     "stock": null,
     "imagenes": [
       "/producto/vegetariana-mediana/images/vegetariana-mediana-1.webp"
@@ -297,7 +382,7 @@
     "categorias": [
       "pizza_vegetariana"
     ],
-    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño BocacTel.",
+    "descripcion": "Queso mozzarella, champiñones, tomate, pimiento y cebolla. Tamaño BocacTel.",
     "stock": null,
     "imagenes": [
       "/producto/vegetariana-bocactel/images/vegetariana-bocactel-1.webp"
@@ -314,7 +399,7 @@
     "categorias": [
       "pizza_vegetariana"
     ],
-    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Personal.",
+    "descripcion": "Queso mozzarella, champiñones, tomate, pimiento y cebolla. Tamaño Personal.",
     "stock": null,
     "imagenes": [
       "/producto/vegetariana-personal/images/vegetariana-personal-1.webp"
@@ -331,7 +416,7 @@
     "categorias": [
       "pizza_vegetariana"
     ],
-    "descripcion": "Mozzarella, champiñón, tomate, pimiento y cebolla; fresca, colorida y preparada sobre masa casera. Tamaño Mini.",
+    "descripcion": "Queso mozzarella, champiñones, tomate, pimiento y cebolla. Tamaño Mini.",
     "stock": null,
     "imagenes": [
       "/producto/vegetariana-mini/images/vegetariana-mini-1.webp"
@@ -348,7 +433,7 @@
     "categorias": [
       "pizza_americana"
     ],
-    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Familiar.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Familiar.",
     "stock": null,
     "imagenes": [
       "/producto/americana-familiar/images/americana-familiar-1.webp"
@@ -365,7 +450,7 @@
     "categorias": [
       "pizza_americana"
     ],
-    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Mediana.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Mediana.",
     "stock": null,
     "imagenes": [
       "/producto/americana-mediana/images/americana-mediana-1.webp"
@@ -382,7 +467,7 @@
     "categorias": [
       "pizza_americana"
     ],
-    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño BocacTel.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño BocacTel.",
     "stock": null,
     "imagenes": [
       "/producto/americana-bocactel/images/americana-bocactel-1.webp"
@@ -399,7 +484,7 @@
     "categorias": [
       "pizza_americana"
     ],
-    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Personal.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Personal.",
     "stock": null,
     "imagenes": [
       "/producto/americana-personal/images/americana-personal-1.webp"
@@ -416,7 +501,7 @@
     "categorias": [
       "pizza_americana"
     ],
-    "descripcion": "Mozzarella, pepperoni, jamón, pimiento, champiñón y cebolla. Tamaño Mini.",
+    "descripcion": "Queso mozzarella, jamón, salami, champiñones y pimiento. Tamaño Mini.",
     "stock": null,
     "imagenes": [
       "/producto/americana-mini/images/americana-mini-1.webp"
@@ -433,7 +518,7 @@
     "categorias": [
       "pizza_hawayana"
     ],
-    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Familiar.",
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla. Tamaño Familiar.",
     "stock": null,
     "imagenes": [
       "/producto/hawayana-familiar/images/hawayana-familiar-1.webp"
@@ -450,7 +535,7 @@
     "categorias": [
       "pizza_hawayana"
     ],
-    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Mediana.",
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla. Tamaño Mediana.",
     "stock": null,
     "imagenes": [
       "/producto/hawayana-mediana/images/hawayana-mediana-1.webp"
@@ -467,7 +552,7 @@
     "categorias": [
       "pizza_hawayana"
     ],
-    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño BocacTel.",
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla. Tamaño BocacTel.",
     "stock": null,
     "imagenes": [
       "/producto/hawayana-bocactel/images/hawayana-bocactel-1.webp"
@@ -484,7 +569,7 @@
     "categorias": [
       "pizza_hawayana"
     ],
-    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Personal.",
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla. Tamaño Personal.",
     "stock": null,
     "imagenes": [
       "/producto/hawayana-personal/images/hawayana-personal-1.webp"
@@ -501,7 +586,7 @@
     "categorias": [
       "pizza_hawayana"
     ],
-    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla sobre nuestra masa casera. Tamaño Mini.",
+    "descripcion": "Queso mozzarella, piña, durazno, pimiento y cebolla. Tamaño Mini.",
     "stock": null,
     "imagenes": [
       "/producto/hawayana-mini/images/hawayana-mini-1.webp"
@@ -518,7 +603,7 @@
     "categorias": [
       "pizza_sencilla"
     ],
-    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Familiar.",
+    "descripcion": "Queso mozzarella, chorizo ahumado y jamón. Tamaño Familiar.",
     "stock": null,
     "imagenes": [
       "/producto/sencilla-familiar/images/sencilla-familiar-1.webp"
@@ -535,7 +620,7 @@
     "categorias": [
       "pizza_sencilla"
     ],
-    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Mediana.",
+    "descripcion": "Queso mozzarella, chorizo ahumado y jamón. Tamaño Mediana.",
     "stock": null,
     "imagenes": [
       "/producto/sencilla-mediana/images/sencilla-mediana-1.webp"
@@ -552,7 +637,7 @@
     "categorias": [
       "pizza_sencilla"
     ],
-    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño BocacTel.",
+    "descripcion": "Queso mozzarella, chorizo ahumado y jamón. Tamaño BocacTel.",
     "stock": null,
     "imagenes": [
       "/producto/sencilla-bocactel/images/sencilla-bocactel-1.webp"
@@ -569,7 +654,7 @@
     "categorias": [
       "pizza_sencilla"
     ],
-    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Personal.",
+    "descripcion": "Queso mozzarella, chorizo ahumado y jamón. Tamaño Personal.",
     "stock": null,
     "imagenes": [
       "/producto/sencilla-personal/images/sencilla-personal-1.webp"
@@ -586,7 +671,7 @@
     "categorias": [
       "pizza_sencilla"
     ],
-    "descripcion": "Masa casera con queso mozzarella, chorizo ahumado y jamón. Tamaño Mini.",
+    "descripcion": "Queso mozzarella, chorizo ahumado y jamón. Tamaño Mini.",
     "stock": null,
     "imagenes": [
       "/producto/sencilla-mini/images/sencilla-mini-1.webp"
