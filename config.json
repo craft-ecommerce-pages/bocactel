@@ -32,10 +32,10 @@
       {
         "direccion": "SAUCES 8 DIAGONAL AL BANCO BOLIVARIANO, FRENTE A PLANTILANDIA",
         "nombre": "BocacTel Pizza",
-        "telefono": "593982033775"
+        "telefono": "593994569280"
       }
     ],
-    "telefono_principal": "593982033775"
+    "telefono_principal": "593994569280"
   },
   "location_intro": "SAUCES 8 DIAGONAL AL BANCO BOLIVARIANO, FRENTE A PLANTILANDIA",
   "logo": "media/logo.webp",
@@ -44,5 +44,5 @@
   "theme_accent": "#F01824",
   "theme_primary": "#08783F",
   "whatsapp_message": "¡Hola BocacTel! 🍕 Quiero hacer este pedido:",
-  "whatsapp_number": "593982033775"
+  "whatsapp_number": "593994569280"
 }
